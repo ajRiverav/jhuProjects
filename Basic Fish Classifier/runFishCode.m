@@ -1,6 +1,6 @@
 function runFishCode()
 %% FISH CLASSIFIER
-% TASK: To build an classifier based on 
+% TASK: To build a classifier based on 
 %   1) Euclidean Distance
 %   2) Mahalanobis Distance
 %   3) Naive Bayes
