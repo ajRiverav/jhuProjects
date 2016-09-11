@@ -9,4 +9,4 @@ A comparison of the Euclidean distance, Mahalanobis distance, and Naive Bayes cl
 
 ### [PowerBall Analysis](https://github.com/ajRiverav/jhuProjects/tree/master/PowerBall%20Analysis) (a personal mini-project)
 
-Historical data is used in an attempt to determine whether ball numbers drawn in the lottery follow a uniform distribution. Any reasonable person would know what to do if they DO NOT follow a uniform distro. Complicating the analysis is the fact that the range of values have changed throughout the years, and thus, relatively few data points are available. 
+Historical data is used in an attempt to determine whether ball numbers drawn in the lottery follow a uniform distribution. Any reasonable person would know what to do if they DO NOT follow a uniform distro (i.e. contact the lottery people, right?). Complicating the analysis is the fact that the range of values have changed throughout the years, and thus, relatively few data points are available. 
