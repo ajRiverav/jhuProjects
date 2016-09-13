@@ -1,7 +1,7 @@
 # jhuProjects
 [WORK IN PROGRESS as of Sept 10 2016]
 
-A collection of interesting and memorable projects developed for and during my master's degree at JHU
+A collection of interesting, memorable, and..well, mundane projects developed for and during my master's degree at JHU
 
 ### [Basic Fish Classifier](https://github.com/ajRiverav/jhuProjects/tree/master/Basic%20Fish%20Classifier)
 
