@@ -1,6 +1,10 @@
 # To bike or not to bike? Correlations between Capital Bikeshare ridership and weather events.
 
-In this analysis, we explore and explain the effect of weather events in the D.C. Metropolitan area on the number of bike rentals. This effort was possible thanks to "open data" stance at Capital Bikeshare and WeatherUnderground.com. 
+In this analysis, we explore and explain the effect of weather events in the D.C. Metropolitan area on the number of bike rentals. 
+
+Also, several models tare built based on linear regression. Confidence intervals are constructed by bootstraping. (i.e. resampling with substitution). These models attempt to predict ridership based on several factors studied.  
+
+Last but not least, this effort was possible thanks to the open data" stance at Capital Bikeshare and WeatherUnderground.com. :)
 
 --------------------------------------------------------------------------------------------------------------------------
 
