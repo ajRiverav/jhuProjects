@@ -14,3 +14,7 @@ Historical data is used in an attempt to determine whether ball numbers drawn in
 ### [MLE vs MoM estimator](https://github.com/ajRiverav/jhuProjects/tree/master/MLE%20vs%20MoM%20estimator)
 
 Two estimatation methods (maximum likelihood and Method of moments) are compared at estimating a paramater of a uniformly distributed random variable. 
+
+### [Capital Bikeshare and Wx(weather) Events](https://github.com/ajRiverav/jhuProjects/tree/master/Capitol%20Bikeshare%20Ridership%20vs%20Wx)
+
+The effect of weather events in the D.C. Metropolitan area on the number of bike rental is explored. Also, several models based on linear regression are built.
