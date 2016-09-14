@@ -1,5 +1,10 @@
+# To bike or not to bike? Correlations between Capital Bikeshare ridership and weather events.
 
-This is the readme file for 
+In this analysis, we explore and explain the effect of weather events in the D.C. Metropolitan area on the number of bike rentals. This effort was possible thanks to "open data" stance at Capital Bikeshare and WeatherUnderground.com. 
+
+--------------------------------------------------------------------------------------------------------------------------
+
+There are two phase:
     a) EDA phase of project (Exploratory Data Analysis)
     b) "Infographic" phase
 
@@ -16,8 +21,9 @@ To run the analysis on a Jupiter notebook:
 4. Run Project_EDA_Main.ipynb
 
 An infographic with a summary of the analysis can be seen in infographic.pdf
+5. The raw plots used for the infographic are found in InfographicRawPlots.ipynb
 
----------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------
 The exact files we used in our EDA can be found at:
 
 wxData.tsv= https://drive.google.com/file/d/0B2nonbXWDbpDZkdZaWJvTjZsWGc/view?usp=sharing
