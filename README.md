@@ -1,7 +1,7 @@
 # jhuProjects
-[WORK IN PROGRESS as of Sept 10 2016]
+[WORK IN PROGRESS as of Sept 18 2016]
 
-A collection of interesting, memorable, and..well, mundane projects developed for and during my master's degree at JHU
+A collection of interesting, memorable, and well... mundane projects developed for and during my bachellor's and master's degree at PUPR(San Juan, PR) and JHU(Baltimore,MD), respectively. 
 
 ### [Basic Fish Classifier](https://github.com/ajRiverav/jhuProjects/tree/master/Basic%20Fish%20Classifier)
 
@@ -18,3 +18,7 @@ Two estimatation methods (maximum likelihood and Method of moments) are compared
 ### [Capital Bikeshare and Wx(weather) Events](https://github.com/ajRiverav/jhuProjects/tree/master/Capitol%20Bikeshare%20Ridership%20vs%20Wx)
 
 The effect of weather events in the D.C. Metropolitan area on the number of bike rental is explored. Also, several models based on linear regression are built.
+
+### [Wheat Seeds Database Analysis](https://github.com/ajRiverav/jhuProjects/tree/master/Wheat%20Seeds%20Analysis)
+
+Using an unsuppervised machine learning algorithm, the number of classes is estimated. Then, the estimation error is compared to the known labels. The k-Means clustering algorithm and UCI's wheat seeds database were used. 
