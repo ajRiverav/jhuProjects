@@ -1,4 +1,4 @@
-# Karnal Bun SVM Classifier
+# Karnal Bunt SVM Classifier
 
 Here I perform automated analysis of microscopic imagery to detect the presence of Karnal bunt spores.  Using image processing and a SVM classifier, spores and non-spores are differentiated. 
 
