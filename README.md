@@ -1,5 +1,5 @@
 # jhuProjects
-[WORK IN PROGRESS as of Jan 15 2017]
+[WORK IN PROGRESS (still adding projects as of Jan 15 2017)]
 
 A collection of interesting, memorable, and well... mundane projects developed for and during my bachellor's and master's degree at PUPR(San Juan, PR) and JHU(Baltimore,MD), respectively. 
 
