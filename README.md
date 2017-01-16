@@ -22,3 +22,8 @@ The effect of weather events in the D.C. Metropolitan area on the number of bike
 ### [Wheat Seeds Database Analysis](https://github.com/ajRiverav/jhuProjects/tree/master/Wheat%20Seeds%20Analysis)
 
 Using an unsuppervised machine learning algorithm, the number of classes is estimated. Then, the estimation error is compared to the known labels(l=7). The k-Means clustering algorithm and UCI's wheat seeds database (N=210) were used. 
+
+### [Prediction of Stock Price Direction near Support Level using Neural Networks](https://github.com/ajRiverav/jhuProjects/tree/master/Stock%20price%20direction%20prediction%20algorithm)
+
+Samples (N=186), including features(19), are generated using stock data from Matlab (uses Yahoo Finance).
+An artificial neural network is then trained to determine if the price of a stock will go up or down relative to the support level.
