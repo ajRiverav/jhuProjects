@@ -27,3 +27,8 @@ Using an unsuppervised machine learning algorithm, the number of classes is esti
 
 Samples (N=186), including features(19), are generated using stock data from Matlab (uses Yahoo Finance).
 An artificial neural network is then trained to determine if the price of a stock will go up or down relative to the support level.
+
+### [Karnal Bunt spores SVM classifier](https://github.com/ajRiverav/jhuProjects/tree/master/karnal-bunt-classifier) 
+
+Here I perform automated analysis of microscopic imagery to detect the presence of Karnal bunt spores. Using image processing and a SVM classifier, spores and non-spores are differentiated.
+
