@@ -62,17 +62,17 @@ clear upperBound lowerBound curFeat tmp ...
 
 %results log
 filename = '__featureCombinationResults4Features_crossEntropy2.csv';
-header = 'TRAININGALGORITHM,DATASET,FEATURES,NUMNEURONSHIDDLAYER,THRESHOLD,AUC,FAR,TPR,FNR,TNR\n';
+header = 'TRAININGALGORITHM,DATASET,TRAININGRUN,FEATURES,NUMNEURONSHIDDLAYER,THRESHOLD,AUC,FAR,TPR,FNR,TNR\n';
 writeToFile(header,filename);
 
 
 % Set-up Neural Network for training and evaluation
-% Log results using feature combination of length 4 or less, 
+% Log results using feature combination of length 2, 
 % using the Resilient Backprop algorithm, 10 neurons in 
 % a single hidden layer, an a cross-entropy error function.
-% Later, the logs will be evaluated and the best architecture will be chosen. 
+% Later, the logs will be evaluated and the best topology will be chosen. 
 
-for i=1:4
+for i=2
     %find all possible combiations of length i
     combos=combnk(1:numFeatures,i);
     %for every combination, compute performance
