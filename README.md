@@ -32,3 +32,8 @@ An artificial neural network is then trained to determine if the price of a stoc
 
 Here I perform automated analysis of microscopic imagery to detect the presence of Karnal bunt spores. Using image processing and a SVM classifier, spores and non-spores are differentiated.
 
+### [Gamma Ray Bursts Clustering](https://github.com/ajRiverav/jhuProjects/tree/master/gamma-rays-bursts)
+
+Gamma Ray Bursts Clustering
+
+Using clustering algorithms, the number of unique categories of GRBs  is estimated.
