@@ -1,7 +1,6 @@
 # Gamma Ray Bursts Clustering
 
-Given the spreadsheet of available gamma ray burster (GRB) features, utilize unsupervised analysis (clustering) techniques to estimate how many unique categories of GRBs can be discerned in the data.
-Here, we estimate the number of unique categories of Gamma Ray Bursts classes using unsupervised machine learning algorithms. The number of classes is unknown to the algorithm. The following algorithms are used:
+Here, I estimate the number of unique categories of GRBs using clustering algorithms. The number of unique categories (classes) is unknown to the algorithm (and to me). The following algorithms are used:
 * Fuzzy C-Means
 * K-Means
 * MBSAS
