@@ -1,7 +1,7 @@
 # jhuProjects
 [WORK IN PROGRESS (still adding projects as of Jan 15 2017)]
 
-A collection of interesting, memorable, and well... mundane projects developed for and during my bachellor's and master's degree at PUPR(San Juan, PR) and JHU(Baltimore,MD), respectively. 
+#### A collection of interesting, memorable, and well... mundane projects developed for and during my bachellor's and master's degree at PUPR(San Juan, PR) and JHU(Baltimore,MD), respectively. 
 
 ### [Basic Fish Classifier](https://github.com/ajRiverav/jhuProjects/tree/master/Basic%20Fish%20Classifier)
 
