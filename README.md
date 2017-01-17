@@ -34,6 +34,4 @@ Here I perform automated analysis of microscopic imagery to detect the presence 
 
 ### [Gamma Ray Bursts Clustering](https://github.com/ajRiverav/jhuProjects/tree/master/gamma-rays-bursts)
 
-Gamma Ray Bursts Clustering
-
 Using clustering algorithms, the number of unique categories of GRBs  is estimated.
