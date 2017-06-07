@@ -1,4 +1,4 @@
-% A stock price near support levels prediction algorithm. 
+% An algorithm to predict the stock price direction near a support level.
 %
 % Gets stock data, calculates features for each sample, and trains and
 % evaluatates an artificial neural network. 
