@@ -96,19 +96,10 @@ for i=1:length(trainingAlgorithms)
                         '\n'];
                     
                     writeToFile(str2,filename,id);
-                end
-                
-                
-            end
-            
-        end
-
-       
-        
-
-        
-        
-    end
-end
+                end %for threshold
+            end %for idx
+        end %for trainingRun
+    end %for numHiddenLayerNeurons
+end %for training algorithm
 end
 
