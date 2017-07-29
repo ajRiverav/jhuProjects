@@ -40,3 +40,6 @@ bikeData folder (has quarterly data from Capital Bikeshare):
 https://drive.google.com/folderview?id=0B2nonbXWDbpDRGZvTzIwRTJJV0k&usp=sharing
 
 
+![Infographic](https://github.com/ajRiverav/jhuProjects/blob/master/Capitol%20Bikeshare%20Ridership%20vs%20Wx/Infographic.jpg?raw=true)
+
+
